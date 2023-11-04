@@ -42,8 +42,8 @@ The technology stack employed in this project includes:
   - API Gateway
 
 ## How to Use the Platform
-- [01: Data Acquisition](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/01.%20API%20Gateway%20for%20Scripting%20Data.ipynb): Begin by setting up the API key to download the latest dataset.
-- [02: Data Visualization](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/02.%20Neo4j%3A%20nodes%20and%20relationships.ipynb): Explore the initial Neo4j graph visualizations to understand the relationships between various dataset variables.
+- [01 Data Acquisition](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/01.%20API%20Gateway%20for%20Scripting%20Data.ipynb): Begin by setting up the API key to download the latest dataset.
+- [02 Data Visualization](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/02.%20Neo4j%3A%20nodes%20and%20relationships.ipynb): Explore the initial Neo4j graph visualizations to understand the relationships between various dataset variables.
 - [03 Back-End Integration](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/03.%20Main.ipynb): Detail the setup and use of MongoDB, Elasticsearch, and Flask for data indexing, querying, and API interaction.
 - [04 Front-End Interaction](https://github.com/Kaguya2906/Chicago-City-Crime-Data-Retrieval-Platform/blob/main/04.%20Flask.ipynb): Link the main application functions with the Flask web interface.
 
